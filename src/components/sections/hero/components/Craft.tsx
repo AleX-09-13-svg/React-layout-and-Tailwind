@@ -7,7 +7,10 @@ export default function Craft() {
         future dwelling.
       </div>
 
-      <img src="images/hero-img.webp" className="rounded-3xl" />
+      <img
+        src={`${import.meta.env.BASE_URL}images/hero-img.webp`}
+        className="rounded-3xl"
+      />
     </div>
   );
 }
