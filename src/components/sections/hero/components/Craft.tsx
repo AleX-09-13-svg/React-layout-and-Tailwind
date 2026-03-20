@@ -4,7 +4,7 @@ export default function Craft() {
       <div className="text-h1 font-bold text-left ml-[10%] mb-8">
         We craft the
         <br />
-        future dwelling.
+        future dwelling!!!.
       </div>
 
       <img
